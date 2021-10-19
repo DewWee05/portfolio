@@ -1,20 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ba930d50.chunk.css",
-    "main.js": "/portfolio/static/js/main.3f0d56a6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3f0d56a6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.55e09804.chunk.css",
+    "main.js": "/portfolio/static/js/main.712ebbf2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.712ebbf2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.f43c1d1b.chunk.js": "/portfolio/static/js/2.f43c1d1b.chunk.js",
     "static/js/2.f43c1d1b.chunk.js.map": "/portfolio/static/js/2.f43c1d1b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.ba930d50.chunk.css.map": "/portfolio/static/css/main.ba930d50.chunk.css.map",
-    "static/js/2.f43c1d1b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f43c1d1b.chunk.js.LICENSE.txt"
+    "static/css/main.55e09804.chunk.css.map": "/portfolio/static/css/main.55e09804.chunk.css.map",
+    "static/js/2.f43c1d1b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f43c1d1b.chunk.js.LICENSE.txt",
+    "static/media/controls1.5691a149.PNG": "/portfolio/static/media/controls1.5691a149.PNG",
+    "static/media/duy2.2ffc5f8d.png": "/portfolio/static/media/duy2.2ffc5f8d.png",
+    "static/media/forgot-password.86fa52e2.PNG": "/portfolio/static/media/forgot-password.86fa52e2.PNG",
+    "static/media/gameplay-1.60a608d7.PNG": "/portfolio/static/media/gameplay-1.60a608d7.PNG",
+    "static/media/gameprofile2.5bdfd09d.png": "/portfolio/static/media/gameprofile2.5bdfd09d.png",
+    "static/media/intro.15b98248.PNG": "/portfolio/static/media/intro.15b98248.PNG",
+    "static/media/portals.60cc98e9.PNG": "/portfolio/static/media/portals.60cc98e9.PNG",
+    "static/media/shake.c7165a1f.svg": "/portfolio/static/media/shake.c7165a1f.svg",
+    "static/media/sign-in2.746dc695.PNG": "/portfolio/static/media/sign-in2.746dc695.PNG",
+    "static/media/sign-up2.5b5e18b3.PNG": "/portfolio/static/media/sign-up2.5b5e18b3.PNG",
+    "static/media/twoplayers2.48175efe.PNG": "/portfolio/static/media/twoplayers2.48175efe.PNG",
+    "static/media/uw_icon.ac713235.png": "/portfolio/static/media/uw_icon.ac713235.png",
+    "static/media/uwtacoma.1a84aad6.png": "/portfolio/static/media/uwtacoma.1a84aad6.png",
+    "static/media/weather2.5920b46b.PNG": "/portfolio/static/media/weather2.5920b46b.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
     "static/js/2.f43c1d1b.chunk.js",
-    "static/css/main.ba930d50.chunk.css",
-    "static/js/main.3f0d56a6.chunk.js"
+    "static/css/main.55e09804.chunk.css",
+    "static/js/main.712ebbf2.chunk.js"
   ]
 }
